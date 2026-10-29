@@ -1,0 +1,8 @@
+
+<suite name="Selenium Hybrid Test Suite">
+    <test name="Regression Tests">
+        <classes>
+            <class name="com.tests.HomePageTest"/>
+        </classes>
+    </test>
+</suite>
